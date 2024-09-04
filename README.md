@@ -2,9 +2,9 @@
 
 <br>
 <div>
-  <a href="https://github.com/Kertf22">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PdroSantana&&show_icons=true&theme=gruvbox">
-  <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PdroSantana&layout=compact&theme=gruvbox">
+  <a href="https://github.com/PdroSantana">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PdroSantana&&show_icons=true&theme=synthwave">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PdroSantana&layout=compact&theme=synthwave">
   </a>
 </div> 
 
