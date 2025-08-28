@@ -11,10 +11,12 @@
 
 ### 🌱 I’m currently learning:
 - .NET
-- HTML
+- GDScript
+- Unity C#
   
 ### 📊Currently Working on:
 - Eggventure A journey to the nest, 3D Platformer in Unity with assessibility and simplicity in mind.
+
   
 ### 💻Tech
  <div style="align-in-block">
